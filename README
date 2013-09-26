@@ -1,0 +1,7 @@
+# This document is for recording the un-common errors we have been throught
+# Just for later checking and bugs fixing
+
+1) XIB file name has to be the same as the name of the viewController's name. For example, if the viewController's name is: DetailViewController.m, the XIB file's name has to be DetailViewController.xib
+
+2) If UI action is not responding, check the delegate connection
+
